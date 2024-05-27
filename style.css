@@ -1,0 +1,16 @@
+body{
+    background-color:indigo;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    font-size: 23px;
+}
+.heading{
+    width:40%;
+    font-variant:small-caps;
+    font-size: 35px;
+    letter-spacing: 3px;
+
+}
+.numberofobjects{
+    color:white;
+}
